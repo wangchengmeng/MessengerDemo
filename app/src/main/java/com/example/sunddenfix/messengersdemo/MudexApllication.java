@@ -6,8 +6,6 @@ import android.support.multidex.MultiDex;
 
 /**
  * @author wangchengmeng
- * @desc
- * @更新时间
  */
 
 public class MudexApllication extends Application {
